@@ -1,0 +1,7 @@
+{
+  "name": "invsync-root",
+  "private": true,
+  "scripts": {
+    "build": "cd ui && npm run build"
+  }
+}
